@@ -1,0 +1,6 @@
+2017-08-14 16:25:01  [ main:21 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3c5a99da: startup date [Mon Aug 14 16:25:01 CST 2017]; root of context hierarchy
+2017-08-14 16:25:01  [ main:122 ] - [ INFO ]  Loading XML bean definitions from class path resource [application-Context.xml]
+2017-08-14 16:25:03  [ main:2016 ] - [ INFO ]  
+2017-08-14 16:25:16  [ main:22 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3c5a99da: startup date [Mon Aug 14 16:25:16 CST 2017]; root of context hierarchy
+2017-08-14 16:25:16  [ main:136 ] - [ INFO ]  Loading XML bean definitions from class path resource [application-Context.xml]
+2017-08-14 16:25:18  [ main:1770 ] - [ INFO ]  User [id=10, Name=张角, Qq=532613272, type=JAVA工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =闭门修炼，远离凡尘, teacher=刘家铭, know_from=null, create_at=0, update_at=0]
