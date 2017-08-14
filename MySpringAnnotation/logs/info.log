@@ -1,0 +1,73 @@
+2017-08-14 16:28:25  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:28:25  [ main:9 ] - [ ERROR ]  删除出错： null
+2017-08-14 16:28:25  [ main:14 ] - [ ERROR ]  增加出错： null
+2017-08-14 16:28:25  [ main:16 ] - [ INFO ]  测试查找
+
+2017-08-14 16:28:25  [ main:17 ] - [ ERROR ]  查找出错： null
+2017-08-14 16:28:25  [ main:20 ] - [ ERROR ]  修改出错： null
+2017-08-14 16:28:25  [ main:23 ] - [ INFO ]  测试结束
+2017-08-14 16:30:10  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:30:10  [ main:7 ] - [ ERROR ]  删除出错： null
+2017-08-14 16:30:10  [ main:14 ] - [ INFO ]  测试结束
+2017-08-14 16:30:26  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:30:26  [ main:13 ] - [ ERROR ]  删除出错： null
+2017-08-14 16:30:26  [ main:23 ] - [ INFO ]  测试结束
+2017-08-14 16:31:08  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:31:08  [ main:4 ] - [ INFO ]  测试查找
+
+2017-08-14 16:31:08  [ main:9 ] - [ ERROR ]  查找出错： null
+2017-08-14 16:31:08  [ main:11 ] - [ INFO ]  测试结束
+2017-08-14 16:32:32  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:32:32  [ main:11 ] - [ INFO ]  测试查找
+
+2017-08-14 16:32:32  [ main:16 ] - [ ERROR ]  查找出错： null
+2017-08-14 16:32:32  [ main:18 ] - [ INFO ]  测试结束
+2017-08-14 16:36:39  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:36:39  [ main:3 ] - [ INFO ]  测试查找
+
+2017-08-14 16:36:39  [ main:10 ] - [ ERROR ]  查找出错： null
+2017-08-14 16:36:39  [ main:14 ] - [ INFO ]  测试结束
+2017-08-14 16:38:26  [ main:1 ] - [ INFO ]  测试开始
+2017-08-14 16:38:26  [ main:4 ] - [ INFO ]  测试查找
+
+2017-08-14 16:38:26  [ main:8 ] - [ ERROR ]  查找出错： null
+2017-08-14 16:38:26  [ main:10 ] - [ INFO ]  测试结束
+2017-08-14 16:38:37  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:38:37  [ main:8 ] - [ ERROR ]  增加出错： null
+2017-08-14 16:38:37  [ main:17 ] - [ INFO ]  测试结束
+2017-08-14 16:40:39  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:40:39  [ main:11 ] - [ ERROR ]  删除出错： null
+2017-08-14 16:40:39  [ main:14 ] - [ ERROR ]  增加出错： null
+2017-08-14 16:40:39  [ main:15 ] - [ INFO ]  测试查找
+
+2017-08-14 16:40:39  [ main:17 ] - [ ERROR ]  查找出错： null
+2017-08-14 16:40:39  [ main:20 ] - [ ERROR ]  修改出错： null
+2017-08-14 16:40:39  [ main:28 ] - [ INFO ]  测试结束
+2017-08-14 16:42:44  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:42:44  [ main:13 ] - [ ERROR ]  删除出错： null
+2017-08-14 16:42:44  [ main:16 ] - [ ERROR ]  增加出错： null
+2017-08-14 16:42:44  [ main:17 ] - [ INFO ]  测试查找
+
+2017-08-14 16:42:44  [ main:18 ] - [ ERROR ]  查找出错： null
+2017-08-14 16:42:44  [ main:21 ] - [ ERROR ]  修改出错： null
+2017-08-14 16:42:44  [ main:23 ] - [ INFO ]  测试结束
+2017-08-14 16:46:38  [ main:0 ] - [ INFO ]  测试开始
+2017-08-14 16:46:38  [ main:10 ] - [ ERROR ]  增加出错： null
+2017-08-14 16:46:38  [ main:12 ] - [ INFO ]  测试结束
+2017-08-14 16:50:25  [ main:129 ] - [ INFO ]  Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2017-08-14 16:50:25  [ main:153 ] - [ INFO ]  Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2017-08-14 16:50:25  [ main:161 ] - [ INFO ]  Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@215be6bb, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4439f31e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@5dfcfece, org.springframework.test.context.transaction.TransactionalTestExecutionListener@23ceabc1, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@5d5eef3d]
+2017-08-14 16:50:25  [ main:205 ] - [ INFO ]  测试开始
+2017-08-14 16:50:25  [ main:340 ] - [ INFO ]  Loading XML bean definitions from class path resource [application-Context.xml]
+2017-08-14 16:50:25  [ main:601 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericApplicationContext@553f17c: startup date [Mon Aug 14 16:50:25 CST 2017]; root of context hierarchy
+2017-08-14 16:50:27  [ main:1986 ] - [ INFO ]  删除结果true
+2017-08-14 16:50:27  [ main:2001 ] - [ INFO ]  受影响的行数1
+2017-08-14 16:50:27  [ main:2001 ] - [ INFO ]  0
+2017-08-14 16:50:27  [ main:2004 ] - [ INFO ]  测试查找
+
+2017-08-14 16:50:27  [ main:2004 ] - [ INFO ]  测试中
+2017-08-14 16:50:30  [ main:5556 ] - [ INFO ]  输出查询结果
+[User [id=189, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=1189, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=2189, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=12189, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=245196, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=249196, Name=李小, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=249296, Name=李小, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=249396, Name=李小, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=249496, Name=李小, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=256496, Name=李小, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=278499, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=279609, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=279743, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=280321, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=280519, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=282713, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=289311, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=289609, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=309543, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=369521, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=389519, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=459609, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=461543, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=467521, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=469519, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=491513, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=557511, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=559609, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=579543, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=639521, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=659519, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=879513, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=1539511, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=1559609, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=1579543, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=1639521, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=1659519, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=1879513, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0], User [id=2539511, Name=李小99, Qq=99, type=前端工程师, time=20170708, Graduate_School=null, student_number=0, Daily_link=null,hope =如果我不能在IT特训营拼尽全力，为自己以后的修行路上打好基础，就让我变胖2斤！, teacher=任我行, know_from=null, create_at=0, update_at=0]]
+2017-08-14 16:50:30  [ main:5572 ] - [ INFO ]  修改结果true
+2017-08-14 16:50:30  [ main:5574 ] - [ INFO ]  测试结束
+2017-08-14 16:50:30  [ Thread-0:5577 ] - [ INFO ]  Closing org.springframework.context.support.GenericApplicationContext@553f17c: startup date [Mon Aug 14 16:50:25 CST 2017]; root of context hierarchy
